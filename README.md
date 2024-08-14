@@ -13,7 +13,7 @@ Desafio promovido no nível 8 da trilha Explorer da Rocketseat - Introdução ao
   <img alt="Projeto API RocketMovies" src="./.github/Cover.png" width="100%">
 </p>
 
-<br><br>
+<br>
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
