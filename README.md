@@ -14,6 +14,7 @@ Desafio promovido no nível 8 da trilha Explorer da Rocketseat - Introdução ao
 </p>
 
 <br>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
